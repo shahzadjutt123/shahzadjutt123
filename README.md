@@ -1,3 +1,4 @@
+![logo](https://github.com/shahzadjutt123/shahzadjutt123/blob/main/Github_banner.jpeg)
 <h1 align="center">Hi 👋, I'm Shahzad Akram</h1>
 <h3 align="center">A passionate Computer Science from Pakistan</h3>
 
